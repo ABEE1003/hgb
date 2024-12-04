@@ -1,1 +1,1 @@
-# internship projests(game development)
+# internship projects(game development)
